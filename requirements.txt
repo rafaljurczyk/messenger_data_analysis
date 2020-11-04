@@ -1,0 +1,7 @@
+libraries you have to get:
+
+pandas
+seaborn
+datetime
+matplotlib
+json
